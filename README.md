@@ -7,3 +7,5 @@ https://github.com/pimoroni/pmk-circuitpython
 
 <i> Adafruit_hid - CircuitPython </i> </br>
 https://docs.circuitpython.org/projects/hid/en/latest/index.html
+
+<img src="keypad.jpg" alt="Pico RGB Keypad" width="500"/>
